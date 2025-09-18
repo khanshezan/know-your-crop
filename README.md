@@ -2,6 +2,7 @@
 
 Know Your Crop is a web-based project designed to help farmers and agricultural enthusiasts make better crop choices using district-specific soil, climate, and market data. Instead of relying only on the major crops traditionally grown in an area, this tool suggests alternative crops that can bring higher profitability and sustainability.
 
+
 🔎 Features
 
 🗺️ District-based Crop Recommendation – Select your district to get crop suggestions tailored to soil type, climate, and regional factors.
@@ -11,6 +12,7 @@ Know Your Crop is a web-based project designed to help farmers and agricultural 
 🌾 Alternative Crops Suggestion – Provides farmers with alternative crop options beyond the commonly grown major crops, helping them diversify and increase demand for less grown crops.
 
 ⚡ Simple & User-friendly UI – Easy navigation with quick results for farmers and students.
+
 
 🎯 Objective
 
@@ -24,15 +26,14 @@ Improve profitability by tapping into rising market demand for non-major crops.
 
 Contribute to sustainable agriculture by recommending crops suited to soil and climate.
 
+
 🛠️ Tech Stack
 
 Frontend: HTML, CSS, JavaScript
-
 Backend: PHP
-
 Data: Soil, climate, and crop datasets for Maharashtra districts
-
 Hosting: Vercel / Local server
+
 
 🚀 Future Scope:
 
